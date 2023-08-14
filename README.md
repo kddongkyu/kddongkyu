@@ -45,6 +45,6 @@ HTTPS, JWT 도입 및 프론트엔드 React로 리팩토링
 <br>
 <div align=center>
 	<p>🏆 Baekjoon solved rank 🏆</p>
-</div>
 	<a href="https://solved.ac/kdk95"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdk95&theme=dark"/></a>
 	<img src="http://mazandi.herokuapp.com/api?handle=kdk95&theme=warm"/>
+</div>
