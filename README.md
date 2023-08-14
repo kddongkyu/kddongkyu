@@ -23,7 +23,7 @@
 	<img src="https://img.shields.io/badge/InteliJ-0769AD?style=flat&logo=intellijidea&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
+	<img src="https://img.shields.io/badge/NCP-232F3E?style=flat&logo=naver&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git-181717?style=flat&logo=Git&logoColor=white" />
 </div>
 <br>
