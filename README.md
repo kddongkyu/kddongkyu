@@ -3,7 +3,7 @@
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 	<br>
@@ -48,7 +48,7 @@ HTTPS, JWT 도입 및 프론트엔드 React로 리팩토링
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdk95)](https://solved.ac/kdk95)
-<img src="http://mazandi.herokuapp.com/api?handle={kdk95}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=kdk95&theme=warm"/>
 </div>
 <br>
 
