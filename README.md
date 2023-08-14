@@ -23,8 +23,8 @@
 	<img src="https://img.shields.io/badge/InteliJ-0769AD?style=flat&logo=intellijidea&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
-	<img src="https://img.shields.io/badge/NCP-232F3E?style=flat&logo=naver&logoColor=white" />
-	<img src="https://img.shields.io/badge/Git-181717?style=flat&logo=Git&logoColor=white" />
+	<img src="https://img.shields.io/badge/NCP-03C75A?style=flat&logo=naver&logoColor=white" />
+	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 </div>
 <br>
 <div align=center>
